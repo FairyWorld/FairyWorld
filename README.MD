@@ -1,6 +1,6 @@
 ### Hi/你好 👋
 
-🔭  欢迎光临我的github  🏗🚧👷‍♂️, 关键词: my, project, fq, backup
+🔭  欢迎光临我的github  🏗🚧👷‍♂️, 关键词: my, learn, project, fq, backup
 
 <!--
 **FairyWorld/FairyWorld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
