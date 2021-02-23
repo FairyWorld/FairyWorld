@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![FairyWorld's github stats](https://github-readme-stats.vercel.app/api?username=FairyWorld)](https://github.com/FairyWorld/ 'FairyWorld的信息')
+[![FairyWorld's github stats](https://github-readme-stats.vercel.app/api?username=FairyWorld&show_icons=true&theme=vue-dark)](https://github.com/FairyWorld/ 'FairyWorld的信息')
 
 <img src="https://badges.toozhao.com/badges/01EJWJV1BRF0GW9JVCGGNKTSDY/blue.svg" width=400/>
