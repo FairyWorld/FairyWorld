@@ -1,6 +1,6 @@
 ### Hi/你好 👋
 
-🔭  欢迎光临我的小窝  🏗🚧👷‍♂️, 关键词: my, study, tool, plugin, project, fq, backup, github
+🔭  欢迎光临我的小窝  🏗🚧👷‍♂️, 关键词: my, study, tool, plugin, project, fq, backup, github, jd
 
 <img src="https://badges.toozhao.com/badges/01EJWJV1BRF0GW9JVCGGNKTSDY/blue.svg" width=400/>
 
