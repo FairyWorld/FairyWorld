@@ -1,15 +1,15 @@
-<p align="center">
+<p align="left">
 <a href="https://github.com/feeddd/feeds" ><img src="https://img.shields.io/github/stars/feeddd/feeds" /></a>
 <a href="https://github.com/feeddd/feeds" ><img src="https://img.shields.io/github/last-commit/feeddd/feeds" /></a>
+</p>
+
+<p align="left">
+<a href="https://github.com/FairyWorld/FairyWorld" ><img src="https://reporoster.com/stars/FairyWorld/FairyWorld" /></a>
 </p>
 
 ### Hi/你好 👋
 
 🔭  欢迎光临我的小窝  🏗🚧👷‍♂️, 关键词: my, study, tool, plugin, project, fq, backup, github, jd, qd, vip
-
-<p align="center">
-<a href="https://github.com/FairyWorld/FairyWorld" ><img src="https://reporoster.com/stars/FairyWorld/FairyWorld" /></a>
-</p>
 
 ![FairyWorld's github stats](https://github-readme-stats.vercel.app/api?username=FairyWorld&show_icons=true&include_all_commits=true&count_private=true&line_height=28&theme=vue-dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FairyWorld&layout=compact&langs_count=12&theme=vue-dark&line_height=28)
 
