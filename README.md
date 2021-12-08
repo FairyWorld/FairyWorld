@@ -1,6 +1,10 @@
 <p align="left">
-<a href="https://github.com/feeddd/feeds" ><img src="https://img.shields.io/github/stars/feeddd/feeds" /></a>
-<a href="https://github.com/feeddd/feeds" ><img src="https://img.shields.io/github/last-commit/feeddd/feeds" /></a>
+<a href="https://github.com/FairyWorld/FairyWorld" ><img src="https://img.shields.io/github/stars/FairyWorld/FairyWorld" /></a>
+<a href="https://github.com/FairyWorld/FairyWorld" ><img src="https://img.shields.io/github/last-commit/FairyWorld/FairyWorld" /></a>
+<a href="https://github.com/FairyWorld/FairyWorld" ><img src="https://img.shields.io/github/release/FairyWorld/FairyWorld" /></a>
+<a href="https://github.com/FairyWorld/FairyWorld" ><img src="https://img.shields.io/github/downloads/FairyWorld/FairyWorld/total" /></a>
+<a href="https://github.com/FairyWorld/FairyWorld" ><img src="https://img.shields.io/github/license/FairyWorld/FairyWorld" /></a>
+<a href="https://t.me/TestFlightCN" ><img src="https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram" /></a>
 </p>
 
 <p align="left">
