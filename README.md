@@ -1,11 +1,3 @@
-<p align="left">
-<a href="https://github.com/FairyWorld/FairyWorld" ><img src="https://img.shields.io/github/stars/FairyWorld/FairyWorld" /></a>
-<a href="https://github.com/FairyWorld/FairyWorld" ><img src="https://img.shields.io/github/last-commit/FairyWorld/FairyWorld" /></a>
-<a href="https://github.com/FairyWorld/FairyWorld" ><img src="https://img.shields.io/github/release/FairyWorld/FairyWorld" /></a>
-<a href="https://github.com/FairyWorld/FairyWorld" ><img src="https://img.shields.io/github/downloads/FairyWorld/FairyWorld/total" /></a>
-<a href="https://github.com/FairyWorld/FairyWorld" ><img src="https://img.shields.io/github/license/FairyWorld/FairyWorld" /></a>
-<a href="https://t.me/TestFlightCN" ><img src="https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram" /></a>
-</p>
 
 <p align="left">
 <a href="https://github.com/FairyWorld/FairyWorld" ><img src="https://reporoster.com/stars/FairyWorld/FairyWorld" /></a>
@@ -14,6 +6,17 @@
 ### Hi/你好 👋
 
 🔭  欢迎光临我的小窝  🏗🚧👷‍♂️, 关键词: my, study, tool, plugin, project, fq, backup, github, jd, qd, vip(账号, 激活)
+
+![Visitor's Count](https://profile-counter.glitch.me/fairyworld/count.svg)
+
+<p align="left">
+<a href="https://github.com/FairyWorld/FairyWorld" ><img src="https://img.shields.io/github/stars/FairyWorld/FairyWorld" /></a>
+<a href="https://github.com/FairyWorld/FairyWorld" ><img src="https://img.shields.io/github/last-commit/FairyWorld/FairyWorld" /></a>
+<a href="https://github.com/FairyWorld/FairyWorld" ><img src="https://img.shields.io/github/release/FairyWorld/FairyWorld" /></a>
+<a href="https://github.com/FairyWorld/FairyWorld" ><img src="https://img.shields.io/github/downloads/FairyWorld/FairyWorld/total" /></a>
+<a href="https://github.com/FairyWorld/FairyWorld" ><img src="https://img.shields.io/github/license/FairyWorld/FairyWorld" /></a>
+<a href="https://t.me/TestFlightCN" ><img src="https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram" /></a>
+</p>
 
 <a href="https://github.com/fairyworld">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=fairyworld&column=7&theme=gruvbox&no-frame=true"/>
