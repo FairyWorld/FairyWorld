@@ -5,7 +5,7 @@
 
 ### Hi/你好 👋
 
-🔭  欢迎光临我的小窝  🏗🚧👷‍♂️, 关键词: my, study, tool, plugin, project, fq, backup, script, github, jd, bili, qd, money, vip(账号, 激活), message(消息推送)
+🔭  欢迎光临我的小窝  🏗🚧👷‍♂️, 关键词: my, study, tool, plugin, project, fq, backup, script, github, jd, bili, qd, money, vip(账号, 激活), message(消息推送), m3u8(视频源)
 
 ![Visitor's Count](https://profile-counter.glitch.me/fairyworld/count.svg)
 
