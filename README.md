@@ -1,6 +1,7 @@
 
 <p align="left">
-<a href="https://github.com/FairyWorld/FairyWorld" ><img src="https://reporoster.com/stars/FairyWorld/FairyWorld" /></a>
+<a href="https://github.com/FairyWorld/FairyWorld">github</a>
+<a href="https://gist.github.com/FairyWorld">gist</a>
 </p>
 
 ### Hi/你好 👋
