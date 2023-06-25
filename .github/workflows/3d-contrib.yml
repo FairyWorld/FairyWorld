@@ -25,4 +25,4 @@ jobs:
           git checkout -b 3d-contrib
           git add -A .
           git commit -m "generated"
-          git push
+          git push -u origin 3d-contrib

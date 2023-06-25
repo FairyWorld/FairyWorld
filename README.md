@@ -1,4 +1,4 @@
-![图床 · Issue #10 · FairyWorld_FairyWorld](https://github.com/FairyWorld/FairyWorld/assets/32956212/87b31f3a-150e-43b6-8821-3dd629b05136)
+![coder](https://github.com/FairyWorld/FairyWorld/assets/32956212/87b31f3a-150e-43b6-8821-3dd629b05136)
 
 <p align="center">
   <h2 height="200px" align="center">Sunny <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"></h2>
@@ -50,12 +50,10 @@
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FairyWorld&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 <picture>
-  <来源 media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <来源 media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FairyWorld/FairyWorld/snk-animation/github-contribution-grid-snake.svg" />
 </picture>
 
-![](./profile-3d-contrib/profile-night-green.svg)
+![contrib](https://raw.githubusercontent.com/FairyWorld/FairyWorld/3d-contrib/profile-3d-contrib/profile-night-green.svg)
 
 https://user-images.githubusercontent.com/80332727/224461650-1535dd6e-787d-42e1-a43c-62e8eca23866.mp4
 
