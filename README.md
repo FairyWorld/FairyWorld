@@ -63,11 +63,9 @@ github, wechat
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FairyWorld&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FairyWorld/FairyWorld/snk-animation/github-contribution-grid-snake.svg" />
-</picture>
+![contrib](https://raw.githubusercontent.com/FairyWorld/FairyWorld/snk-animation/github-contribution-grid-snake.svg)
 
-![contrib](https://raw.githubusercontent.com/FairyWorld/FairyWorld/3d-contrib/profile-3d-contrib/profile-night-green.svg)
+![contrib-3d](https://raw.githubusercontent.com/FairyWorld/FairyWorld/3d-contrib/profile-3d-contrib/profile-night-green.svg)
 
 https://user-images.githubusercontent.com/80332727/224461650-1535dd6e-787d-42e1-a43c-62e8eca23866.mp4
 
