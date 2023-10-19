@@ -31,6 +31,12 @@
 
 <br />
 
+<p align="center">
+    <a href="https://github.com/fairyworld/fairyworld/blob/main/README.md"><b> 简体中文 </b></a> •
+    <a href="https://github.com/fairyworld/fairyworld/blob/main/docs/en/README.md"><b> English </b></a> •
+    <a href="https://github.com/fairyworld/fairyworld/blob/main/docs/ja/README.md"><b> Japanese </b></a>
+</p>
+
 # <a href="https://github.com/FairyWorld/FairyWorld">主页说明书</a>
 
 ## keyword
