@@ -42,7 +42,7 @@
 ## keyword
 
 <p>
-study, demo, plugin, project, reactPlugin, spider(爬虫), docker, node, i18n(汉化, 翻译), ai(人工智能), lowCode(低代码), devtool(开发工具), work(招聘, 工作), visualization(数据可视化), npm, server, frontEnd
+study, demo, plugin, project, reactPlugin, spider(爬虫), docker, node, i18n(汉化, 翻译), ai(人工智能), lowCode(低代码), devtool(开发工具), work(招聘, 工作), visualization(数据可视化), npm, server, frontEnd, vue, react
 </p>
 
 <p>
