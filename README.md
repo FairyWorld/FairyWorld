@@ -46,7 +46,7 @@ study, demo, plugin, project, reactPlugin, spider(爬虫), docker, node, i18n(�
 </p>
 
 <p>
-my, tool, life(日常工具), fq, backup, script, jd, bili, qd, money(赚钱以及工具), message(消息推送), mobile, collect(收藏, 书签), music, chrome(浏览器), life, ml, search, tg, free(白嫖), live2d(看板娘), attack(抓包, 攻击, 轰炸), share(分享, 共享, 屏幕共享等), awesome(好玩的资源), magisk(面具, xp), app, game, web(一些好网站), bot, pc, life, ad(广告净化), auto(自动化), myproxy, linux, webDev, liveTools, weixinlsposed， 
+app(软件), my, tool, life(日常工具), fq, backup, script, jd, bili, qd, money(赚钱以及工具), message(消息推送), mobile, collect(收藏, 书签), music, chrome(浏览器), life, ml, search, tg, free(白嫖), live2d(看板娘), attack(抓包, 攻击, 轰炸), share(分享, 共享, 屏幕共享等), awesome(好玩的资源), magisk(面具, xp), app, game, web(一些好网站), bot, pc, life, ad(广告净化), auto(自动化), myproxy, linux, webDev, liveTools, weixinlsposed， 
 </p>
 
 <p>
